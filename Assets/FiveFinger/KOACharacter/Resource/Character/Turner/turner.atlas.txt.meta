@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41faba63f54f6a44fbfec03901554639
+timeCreated: 1593076163
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134678
+  packageName: 2D Spine, Turner Set
+  packageVersion: 1.11
+  assetPath: Assets/FiveFinger/KOACharacter/Resource/Character/Turner/turner.atlas.txt
+  uploadId: 376815

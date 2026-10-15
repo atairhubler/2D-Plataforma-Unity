@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 40631c60d1d2cc34e8d588481677fb3d
+timeCreated: 1593076163
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134678
+  packageName: 2D Spine, Turner Set
+  packageVersion: 1.11
+  assetPath: Assets/FiveFinger/KOACharacter/Resource/Character/Turner/turner.json
+  uploadId: 376815

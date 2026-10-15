@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d497845eef56ae439406f724d137364
+timeCreated: 1468823133
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134678
+  packageName: 2D Spine, Turner Set
+  packageVersion: 1.11
+  assetPath: Assets/FiveFinger/KOACharacter/Prefabs/Character/Turner.prefab
+  uploadId: 376815

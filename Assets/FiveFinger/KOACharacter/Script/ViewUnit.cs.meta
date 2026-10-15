@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 953f8ca0635d2e2429e88ebdc7e12dbd
+timeCreated: 1515639635
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 134678
+  packageName: 2D Spine, Turner Set
+  packageVersion: 1.11
+  assetPath: Assets/FiveFinger/KOACharacter/Script/ViewUnit.cs
+  uploadId: 376815
